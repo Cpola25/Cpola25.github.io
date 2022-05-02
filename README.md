@@ -11,6 +11,18 @@
 <img src="Images/BCW.png"
      alt="BCW"
      style="float: right; height: 290px;" />
+  
+  <img src="Images/KL.png"
+    alt="Square"
+     style="float: center; height: 290px;" />
+    
+   <img src="Images/N.png"
+     alt="Nat"
+     style="float: center; height: 290px;" />
+   
+   <img src="Images/P.png"
+     alt="Pup"
+     style="float: center; height: 290px;" />
 
 
 
