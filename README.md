@@ -1,6 +1,8 @@
 ## On this website you can view some of my artwork:  
 
-![Gundam](Gundam.jpg) 
+<img src="Gundam.jpg"
+     alt="Gundam"
+     style="float: center; height: 290px;" />
 
 <img src="Images/GG.png"
      alt="Golden Girls"
