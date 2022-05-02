@@ -1,6 +1,9 @@
-## Welcome to:  
+## On this website you can view some of my artwork:  
 
-# Lizbeth Trujillo's Website 
-## Header 2
-### Header 3
+# Gundam Wing Commision: 
 ![Temp Pic](Gundam.jpg)
+
+#Orange Blossom Special:
+
+#Broken Robot 
+
