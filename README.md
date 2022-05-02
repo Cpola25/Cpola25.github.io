@@ -10,7 +10,7 @@
      
 <img src="Images/BCW.png"
      alt="BCW"
-     style="float: right; height: 290px;" />
+     style="float: right; height: 290px; margin-left: 10px" />
   
   <img src="Images/KL.png"
     alt="Square"
