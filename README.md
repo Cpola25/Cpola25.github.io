@@ -2,11 +2,11 @@
 
 <img src="Gundam.jpg"
      alt="Gundam"
-     style="float: left; height: 290px;" />
+     style="float: left; height: 290px; margin-bottom: 20px;" />
   
  <img src="Images/P.png"
      alt="Pup"
-     style="float: right; height: 290px;" />
+     style="float: right; height: 290px; margin-bottom: 20px; margin-left: 70px;" />
 
 <img src="Images/GG.png"
      alt="Golden Girls"
