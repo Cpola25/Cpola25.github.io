@@ -1,6 +1,6 @@
 ## On this website you can view some of my artwork:  
 
-![Temp Pic](Gundam.jpg)
-![Golden Girls](GG.jpg)
-![Broken Robot](BrokenRobot.jpeg)
+![Gundam](Gundam.jpg) 
+![Golden Girls](Images/GG.jpg) ![Breakfast Chicken Warrior](Images/BCW.png)
+
 
