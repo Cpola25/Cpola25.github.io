@@ -6,15 +6,15 @@
 
 <img src="Images/GG.png"
      alt="Golden Girls"
-     style="float: left; height: 290px;" />
+     style="float: left; height: 290px; width: 100px;" />
      
 <img src="Images/BCW.png"
      alt="BCW"
-     style="float: right; height: 290px; margin-left: 10px" />
+     style="float: right; height: 290px; width: 100px; " />
   
   <img src="Images/KL.png"
     alt="Square"
-     style="float: center; height: 290px;" />
+     style="float: center; height: 290px; margin-left: 10px;" />
     
    <img src="Images/N.png"
      alt="Nat"
