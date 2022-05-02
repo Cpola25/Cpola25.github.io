@@ -1,10 +1,14 @@
 ## On this website you can view some of my artwork:  
 
 ![Gundam](Gundam.jpg) 
-![Golden Girls](Images/GG.png) 
+
+<img src="Images/GG.png"
+     alt="Golden Girls"
+     style="float: left; height: 10%;" />
+     
 <img src="Images/BCW.png"
      alt="BCW"
-     style="float: center; height: 10px;" />
+     style="float: right; height: 10%;" />
 
 
 
