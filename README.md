@@ -6,7 +6,7 @@
   
  <img src="Images/P.png"
      alt="Pup"
-     style="height: 290px; margin-bottom: 20px; margin-left: 20px;" />
+     style="height: 290px; margin-bottom: 20px; margin-left: 60px;" />
 
 <img src="Images/GG.png"
      alt="Golden Girls"
