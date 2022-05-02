@@ -6,7 +6,7 @@
 
 <img src="Images/GG.png"
      alt="Golden Girls"
-     style="float: left; height: 290px; width: 2300px;" />
+     style="float: left; height: 290px; width: 230px;" />
      
 <img src="Images/BCW.png"
      alt="BCW"
