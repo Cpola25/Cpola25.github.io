@@ -2,7 +2,7 @@
 
 <img src="Gundam.jpg"
      alt="Gundam"
-     style="float: left; height: 290px; margin-bottom: 20px; margin-left: 30px;" />
+     style="float: left; height: 290px; margin-bottom: 20px; margin-left: 60px;" />
   
  <img src="Images/P.png"
      alt="Pup"
@@ -22,7 +22,7 @@
     
    <img src="Images/N.png"
      alt="Nat"
-     style="height: 290px;margin-left: 100px;" />
+     style="height: 290px;margin-left: 300px;" />
    
   
 
