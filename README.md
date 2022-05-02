@@ -18,7 +18,7 @@
   
   <img src="Images/KL.png"
     alt="Square"
-     style="float: center; height: 290px; margin-left: 10px;" />
+     style="float: center; height: 290px; margin-left: 100px;" />
     
    <img src="Images/N.png"
      alt="Nat"
