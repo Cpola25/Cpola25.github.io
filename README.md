@@ -22,7 +22,7 @@
     
    <img src="Images/N.png"
      alt="Nat"
-     style="height: 290px;margin-left: 300px;" />
+     style="height: 290px;margin-left: 380px;" />
    
   
 
