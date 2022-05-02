@@ -3,7 +3,7 @@
 # Gundam Wing Commision: 
 ![Temp Pic](Gundam.jpg)
 
-#Orange Blossom Special:
+##Orange Blossom Special:
 
-#Broken Robot 
+###Broken Robot 
 
