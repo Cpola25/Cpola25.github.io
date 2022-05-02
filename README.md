@@ -4,11 +4,11 @@
 
 <img src="Images/GG.png"
      alt="Golden Girls"
-     style="float: left; height: 150px;" />
+     style="float: left; height: 190px;" />
      
 <img src="Images/BCW.png"
      alt="BCW"
-     style="float: right; height: 150px;" />
+     style="float: right; height: 190px;" />
 
 
 
