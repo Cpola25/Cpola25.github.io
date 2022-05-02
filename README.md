@@ -2,7 +2,7 @@
 
 <img src="Gundam.jpg"
      alt="Gundam"
-     style="float: left; height: 290px; margin-bottom: 20px;" />
+     style="float: left; height: 290px; margin-bottom: 20px; margin-left: 30px;" />
   
  <img src="Images/P.png"
      alt="Pup"
