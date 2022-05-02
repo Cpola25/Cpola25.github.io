@@ -20,9 +20,6 @@
     alt="Square"
      style="float: center; height: 290px; margin-left: 100px;" />
     
-   <img src="Images/N.png"
-     alt="Nat"
-     style="height: 290px;margin-left: 380px;" />
    
   
 
